@@ -2,7 +2,7 @@ ESERCIZIO MAIL
 
 Per svolgere l'esercizio partiremo dalla creazione del prompt dove si chiede di inserire indirizzo email:
 
-const emailUser = prompt("inserisci il tuo indirizzo emai");
+const emailUser = prompt("inserisci il tuo indirizzo email");
 
 unavolta che l'utente ha inserito il suo indirizzo email js dove scorrere nella lista di email che sono abilitate all'accesso. 
 Per renderlo possibile possiamo utilizzare un arrey:
